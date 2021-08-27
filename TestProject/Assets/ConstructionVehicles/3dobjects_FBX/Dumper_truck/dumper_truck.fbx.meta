@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: fb136eff7e313b54aafe31e311b3527d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: body_main
+    100002: Camera
+    100004: //RootNode
+    100006: hydraulic_part1
+    100008: hydraulic_part2
+    100010: platform
+    100012: platform_door
+    100014: wheel_back_left
+    100016: wheel_back_right
+    100018: wheel_front_left
+    100020: wheel_front_right
+    400000: body_main
+    400002: Camera
+    400004: //RootNode
+    400006: hydraulic_part1
+    400008: hydraulic_part2
+    400010: platform
+    400012: platform_door
+    400014: wheel_back_left
+    400016: wheel_back_right
+    400018: wheel_front_left
+    400020: wheel_front_right
+    2300000: body_main
+    2300002: hydraulic_part1
+    2300004: hydraulic_part2
+    2300006: platform
+    2300008: platform_door
+    2300010: wheel_back_left
+    2300012: wheel_back_right
+    2300014: wheel_front_left
+    2300016: wheel_front_right
+    3300000: body_main
+    3300002: hydraulic_part1
+    3300004: hydraulic_part2
+    3300006: platform
+    3300008: platform_door
+    3300010: wheel_back_left
+    3300012: wheel_back_right
+    3300014: wheel_front_left
+    3300016: wheel_front_right
+    4300000: Mesh
+    4300002: Mesh
+    4300004: Mesh
+    4300006: Mesh
+    4300008: Mesh
+    4300010: Mesh
+    4300012: Mesh
+    4300014: Mesh
+    4300016: Mesh
+    4300018: wheel_front_left
+    4300020: body_main
+    4300022: platform
+    4300024: platform_door
+    4300026: hydraulic_part1
+    4300028: hydraulic_part2
+    4300030: wheel_back_left
+    4300032: wheel_back_right
+    4300034: wheel_front_right
+    11100000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lights
+    second: {fileID: 2100000, guid: a1b8a29eb78cd0343bf71c621c22d21e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: main color
+    second: {fileID: 2100000, guid: 51a12b6453a4bfc4e97bda369a58e0a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal chromed
+    second: {fileID: 2100000, guid: fba29285adb38634d98e2eb638cd3ee9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal dark
+    second: {fileID: 2100000, guid: bc36c576cd0b0a647857c5574ce4ad6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mirrors
+    second: {fileID: 2100000, guid: 262efb416c0624c47ad323aca5a706b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plastic
+    second: {fileID: 2100000, guid: 57deab0ff069531498731455e4282993, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheels
+    second: {fileID: 2100000, guid: 85777caf34a09744cafef8317f8f3f1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheels_metal
+    second: {fileID: 2100000, guid: 2218fcea1485326489c0a0cbaf903a34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: windows
+    second: {fileID: 2100000, guid: 3f33ccdb5bc778849b87f8e2c7dafb82, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 27
+    normalImportMode: 1
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
