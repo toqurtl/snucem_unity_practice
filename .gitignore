@@ -15,8 +15,8 @@
 [Mm]emoryCaptures/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
-# [Aa]ssets/**/*.meta
-*/Assets/**/*.meta
+[Aa]ssets/**/*.meta
+# */Assets/**/*.meta
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /[Aa]ssets/AssetStoreTools*
@@ -71,5 +71,6 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
-# data
+# snucem
+screenshots/
 *.jpg
