@@ -1,6 +1,7 @@
 # snucem_unity_practice
 ## version
 2020.3.11f1
+2018.4.36f1
 ## git 연동방법
 https://learnandcreate.tistory.com/627?category=833982
 
