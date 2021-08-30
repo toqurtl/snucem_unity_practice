@@ -18,7 +18,6 @@ Plugins
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 [Aa]ssets/**/*.meta
 Project/Assets/**/*.meta
-Project/Assets/ML-Agents/Examples
 
 # */Assets/**/*.meta
 
